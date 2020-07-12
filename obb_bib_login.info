@@ -1,0 +1,6 @@
+name = OBB bib login
+description = functions to help get bib login tokens.
+core = 7.x
+package = Providers
+version = 7.x-1.0
+project = obb
